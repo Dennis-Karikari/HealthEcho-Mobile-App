@@ -8,19 +8,19 @@ This repository contains **wireframes and design assets** for *HealthEcho*, a vo
 
 ## Key Screens (Wireframes)  
 ### 1. **Welcome Screen**  
-![Welcome Screen](./wireframe/page1.png)  
+![Welcome Screen](wireframe/page1.png)  
 - **"Akwaaba"** (Welcome in Twi) with tap-to-proceed interaction.  
 - Designed for instant engagement without instructions.  
 
 ### 2. **Language Selection**  
-![Language Screen](./wireframe/page2.png)  
+![Language Screen](wireframe/page2.png)  
 - Supports 6 languages:  
   - English, French, Arabic  
   - Twi, Hausa, Ewe  
 - Voice-enabled selection (not shown in wireframe).  
 
 ### 3. **Main Menu**  
-![Main Menu](./wireframe/page3.png)  
+![Main Menu](wireframe/page3.png)  
 - 4 core options:  
   - **Health Alerts**  
   - **Information**  
@@ -28,17 +28,17 @@ This repository contains **wireframes and design assets** for *HealthEcho*, a vo
   - **Community Messages**  
 
 ### 4. **Health Alerts Dashboard**  
-![Alerts Screen](./wireframe/page4.png)  
+![Alerts Screen](wireframe/page4.png)  
 - Highlights urgent outbreaks (e.g., *"Typhoid Fever in Ashanti Region"*).  
 - Past alerts archive for reference.  
 
 ### 5. **Information Requests**  
-![Requests Screen](./wireframe/page5.png)  
+![Requests Screen](wireframe/page5.png)  
 - Voice-prompted health queries.  
 - FAQ section for common topics.  
 
 ### 6. **Community Hub**  
-![Community Screen](./wireframe/page6.png)  
+![Community Screen](wireframe/page6.png)  
 - Shared messages from local health workers.  
 
 ---
@@ -54,25 +54,19 @@ This repository contains **wireframes and design assets** for *HealthEcho*, a vo
 ---
 
 ## How to Use These Wireframes  
-1. **View PDF**: [`voice-activated-UI-wireframe.pdf`](voice-activated-UI-wireframe.pdf)  
-2. **Figma Prototype**: [Live Link](https://www.figma.com/proto/J7pV2WOmktHEFC5hLfWiEn/Voice-activated-UI-wire-frame?node-id=0-1&t=b9NPD0eiP7EDczQm-1) 
+1. **View PDF**: [voice-activated-UI-wireframe.pdf](voice-activated-UI-wireframe.pdf)  
+2. **Figma Prototype**: [Interactive Prototype](https://www.figma.com/proto/J7pV2WOmktHEFC5hLfWiEn/Voice-activated-UI-wire-frame?node-id=0-1&t=b9NPD0eiP7EDczQm-1)  
 3. **Assets**:  
-   - `/wireframes` – PNG exports of each screen.  
+   - `/wireframe` – PNG exports of each screen (ensure filenames match exactly).  
    - `/icons` – Culture-appropriate pictograms.  
 
 ---
 
-## Target Users  
-- **Rural communities** in West Africa (Ghana/Nigeria focus).  
-- **Non-literate elderly** relying on voice/TTS.  
-- **Health workers** broadcasting alerts.  
-
----
-
-## Contributing  
-Open to:  
-- **Localization experts**: Add more dialects.  
-- **UI designers**: Improve touch targets for low-tech devices.  
-- **Researchers**: Suggest accessibility tweaks.  
-
---- 
+## Troubleshooting Image Display  
+If images aren't showing:  
+1. Verify the **folder is named exactly `wireframe`** (case-sensitive)  
+2. Confirm **filenames match exactly** (e.g., `page1.png` not `Page1.PNG`)  
+3. Check that images are **committed and pushed** to GitHub  
+4. Use **absolute paths** if needed:  
+   ```markdown
+   ![Welcome Screen](https://github.com/your-username/your-repo/blob/main/wireframe/page1.png?raw=true)
