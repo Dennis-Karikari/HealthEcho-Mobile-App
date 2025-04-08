@@ -8,12 +8,12 @@ This repository contains **wireframes and design assets** for *HealthEcho*, a vo
 
 ## Key Screens (Wireframes)  
 ### 1. **Welcome Screen**  
-![Welcome Screen](wireframe/page1.png)  
+![Welcome Screen](Wireframe/page1.png) 
 - **"Akwaaba"** (Welcome in Twi) with tap-to-proceed interaction.  
 - Designed for instant engagement without instructions.  
 
 ### 2. **Language Selection**  
-![Language Screen](wireframe/page2.png)  
+![Language Screen](Wireframe/page2.png)
 - Supports 6 languages:  
   - English, French, Arabic  
   - Twi, Hausa, Ewe  
