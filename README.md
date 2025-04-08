@@ -1,5 +1,3 @@
-# HealthEcho-Mobile-App
-
 # HealthEcho UI/UX Design  
 **Voice-Activated Health Alerts — Wireframes & Prototype**  
 
