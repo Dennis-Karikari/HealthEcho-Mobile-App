@@ -54,9 +54,4 @@ This repository contains **wireframes and design assets** for *HealthEcho*, a vo
 ---
 
 ## How to Use These Wireframes  
-1. **View PDF**: (PDF/Voice activated UI wire-frame.pdf) 
-2. **Figma Prototype**: [Interactive Prototype](https://www.figma.com/proto/J7pV2WOmktHEFC5hLfWiEn/Voice-activated-UI-wire-frame?node-id=0-1&t=b9NPD0eiP7EDczQm-1)  
-3. **Assets**:  
-   - `/wireframe` – PNG exports of each screen (ensure filenames match exactly).  
-   - `/icons` – Culture-appropriate pictograms.  
-
+1. **Figma Prototype**: [Interactive Prototype](https://www.figma.com/proto/J7pV2WOmktHEFC5hLfWiEn/Voice-activated-UI-wire-frame?node-id=0-1&t=b9NPD0eiP7EDczQm-1)  
