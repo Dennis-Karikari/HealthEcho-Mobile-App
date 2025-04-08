@@ -20,7 +20,7 @@ This repository contains **wireframes and design assets** for *HealthEcho*, a vo
 - Voice-enabled selection (not shown in wireframe).  
 
 ### 3. **Main Menu**  
-![Main Menu](wireframe/page3.png)  
+![Main Menu](Wireframe/page3.png)  
 - 4 core options:  
   - **Health Alerts**  
   - **Information**  
@@ -28,17 +28,17 @@ This repository contains **wireframes and design assets** for *HealthEcho*, a vo
   - **Community Messages**  
 
 ### 4. **Health Alerts Dashboard**  
-![Alerts Screen](wireframe/page4.png)  
+![Alerts Screen](Wireframe/page4.png)  
 - Highlights urgent outbreaks (e.g., *"Typhoid Fever in Ashanti Region"*).  
 - Past alerts archive for reference.  
 
 ### 5. **Information Requests**  
-![Requests Screen](wireframe/page5.png)  
+![Requests Screen](Wireframe/page5.png)  
 - Voice-prompted health queries.  
 - FAQ section for common topics.  
 
 ### 6. **Community Hub**  
-![Community Screen](wireframe/page6.png)  
+![Community Screen](Wireframe/page6.png)
 - Shared messages from local health workers.  
 
 ---
