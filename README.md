@@ -60,13 +60,3 @@ This repository contains **wireframes and design assets** for *HealthEcho*, a vo
    - `/wireframe` – PNG exports of each screen (ensure filenames match exactly).  
    - `/icons` – Culture-appropriate pictograms.  
 
----
-
-## Troubleshooting Image Display  
-If images aren't showing:  
-1. Verify the **folder is named exactly `wireframe`** (case-sensitive)  
-2. Confirm **filenames match exactly** (e.g., `page1.png` not `Page1.PNG`)  
-3. Check that images are **committed and pushed** to GitHub  
-4. Use **absolute paths** if needed:  
-   ```markdown
-   ![Welcome Screen](https://github.com/your-username/your-repo/blob/main/wireframe/page1.png?raw=true)
