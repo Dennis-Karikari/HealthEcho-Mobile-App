@@ -1,5 +1,5 @@
 # HealthEcho UI/UX Design  
-**Voice-Activated Health Alerts — Wireframes & Prototype**  
+**Voice-Activated Health Alerts, Wireframes & Prototype**  
 
 ## Overview  
 This repository contains **wireframes and design assets** for *HealthEcho*, a voice-first mobile app delivering critical health information in local languages. The UI prioritizes accessibility for low-literacy users through intuitive voice interaction and minimal text reliance.  
